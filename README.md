@@ -1,7 +1,7 @@
 # EnergySys
 https://www.energysys.com/
 #WorkbookAtScale
-#MSExcelAtsSale
+#MSExcelAtSale
 #MSAccessAtScale
 #MSOfficeAtScale
 #MSExcelAutomation
